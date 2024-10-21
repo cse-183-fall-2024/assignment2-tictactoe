@@ -16,5 +16,4 @@ app.data = {
 };
 
 app.vue = Vue.createApp(app.data).mount("#app");
-app.vue.recompute();
 
